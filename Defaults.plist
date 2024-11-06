@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Text Color Red RGB Value</key>
+	<integer>0</integer>
+	<key>Text Color Green RGB Value</key>
+	<integer>0</integer>
+	<key>Text Color Blue RGB Value</key>
+	<integer>0</integer>
+	<key>Background Color Red RGB Value</key>
+	<integer>1</integer>
+	<key>Background Color Green RGB Value</key>
+	<integer>1</integer>
+	<key>Background Color Blue RGB Value</key>
+	<integer>1</integer>
+	<key>Print Orientation Selected Row</key>
+	<integer>0</integer>
+	<key>Printed Text Alignment Selected Row</key>
+	<integer>0</integer>
+	<key>Print Duplex Selected Row</key>
+	<integer>0</integer>
+	<key>Icon Badge</key>
+	<false/>
+	<key>Notes Section Badge</key>
+	<true/>
+	<key>Autocorrection Enabled</key>
+	<true/>
+	<key>Autocapitalization Enabled</key>
+	<true/>
+	<key>Forgot Passcode Option Enabled</key>
+	<false/>
+	<key>Simple Passcode</key>
+	<true/>
+	<key>Numeric Passcode</key>
+	<false/>
+	<key>Secure Note Importing Enabled</key>
+	<false/>
+	<key>Defaults Set</key>
+	<true/>
+	<key>Erase Data</key>
+	<false/>
+	<key>Passcode Requirement Delay Index</key>
+	<integer>0</integer>
+	<key>Font Name</key>
+	<string>Helvetica</string>
+	<key>Font Size</key>
+	<integer>17</integer>
+	<key>Printed Font Name</key>
+	<string>Helvetica</string>
+	<key>Printed Font Size</key>
+	<integer>12</integer>
+	<key>Top Print Margin Size</key>
+	<integer>72</integer>
+	<key>Left Print Margin Size</key>
+	<integer>72</integer>
+	<key>Right Print Margin Size</key>
+	<integer>72</integer>
+	<key>Welcome Message Shown</key>
+	<false/>
+	<key>Request to Rate</key>
+	<true/>
+	<key>Remind to Rate</key>
+	<false/>
+	<key>Rating Launch Count</key>
+	<integer>0</integer>
+	<key>Scroll Button Help Alert Shown</key>
+	<false/>
+</dict>
+</plist>

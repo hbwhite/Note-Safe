@@ -1,0 +1,7 @@
+/* A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences. */
+
+"Application Information" = "Application Information";
+"Version" = "Version";
+"Website" = "Website";
+"About" = "About";
+"Copyright" = "Copyright © 2012 Harrison Apps, LLC\nAll rights reserved.";

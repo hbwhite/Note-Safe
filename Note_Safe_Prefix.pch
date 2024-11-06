@@ -1,0 +1,23 @@
+//
+// Prefix header for all source files of the 'Note Safe' target in the 'Note Safe' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import <CoreData/CoreData.h>
+#endif
+
+/*
+// If implementing these, a custom header should be created and imported in only the relevant classes.
+
+BOOL didSaveDefaults;
+BOOL didReadDefaults;
+*/
